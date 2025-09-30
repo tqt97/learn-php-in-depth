@@ -14,7 +14,7 @@ hero:
       text: Tiếng anh
       link: /english
   image:
-    src: public/images/logo.png
+    src: images/logo.png
     alt: Become the PHP master, learn the language in-depth
 
 features:
