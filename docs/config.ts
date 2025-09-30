@@ -29,6 +29,10 @@ export default defineAdditionalConfig({
 				{
 					text: 'ReactJS',
 					items: []
+				},
+				{
+					text: 'Thiết kế hệ thống',
+					items: []
 				}
 			],
 			'english': [
