@@ -39,7 +39,7 @@ Trang này được xây dựng dành cho mọi đối tượng: từ người m
 👉 Nếu bạn là **người mới bắt đầu**, hãy vào phần **Cơ bản** để làm quen với PHP.  
 👉 Nếu bạn đã có kinh nghiệm, hãy đến ngay phần **Nâng cao** hoặc **Framework**.
 
-[**Bắt đầu học PHP →**](/documents/intro)
+[**Bắt đầu học PHP →**](/programming/php/index)
 
 ---
 
