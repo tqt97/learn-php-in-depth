@@ -6,7 +6,7 @@ export default defineAdditionalConfig({
 	description: 'Không gian lưu trữ và chia sẻ kiến thức, từ code, ngoại ngữ cho đến trải nghiệm học tập hữu ích',
 
 	themeConfig: {
-		logo: '../public/images/logo.png',
+		logo: 'images/logo.png',
 		nav: nav(),
 		search: {
 			provider: 'local'
